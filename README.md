@@ -40,6 +40,8 @@
 
 clone from github
 
+See deployed application here [https://github-actions-ci-cd-setup-1ng0.onrender.com]
+
 
 
 ## Usage
