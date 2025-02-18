@@ -48,6 +48,8 @@ clone from github
 
 npm run start runs the built in application
 
+See gist tutorial here [https://gist.github.com/lucashallman/f57fedb9f9b81ad7ab8d3d37b66b7d85]
+
 
 
 ## Credits
